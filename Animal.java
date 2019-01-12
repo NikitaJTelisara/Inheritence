@@ -1,4 +1,4 @@
-public class Animal {
+public abstract class Animal {
     public Animal() {
         System.out.println("New Animal created");
     }
